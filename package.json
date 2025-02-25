@@ -1,5 +1,5 @@
 {
-  "name": "typechallenge",
+  "name": "typechallenges",
   "module": "index.ts",
   "type": "module",
   "private": true,
